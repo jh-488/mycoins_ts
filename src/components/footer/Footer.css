@@ -1,0 +1,26 @@
+footer {
+    margin-top: 20px;
+}
+
+.copyright {
+    text-align: center;
+    padding: 10px;
+}
+
+#dark .copyright {
+    background: #323546;
+    box-shadow: 12px #323546;
+    color: #f4f4f4;
+}
+
+#light .copyright {
+    background: #C0C0C0;
+    box-shadow: 12px #C0C0C0;
+    color: #222531;
+}
+
+.copyright span a {
+    text-decoration: underline;
+    color: #356ceb !important;
+    font-weight: 500;
+}
