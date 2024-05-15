@@ -2,7 +2,7 @@
 
 This is a react app that uses the [CoinGecko API](https://www.coingecko.com/api/documentation) to display top 10 cryptos based on their marketcap and important data about each one.
 
-[DEMO](https://jh-488.github.io/mycoins/](https://mycoinss.netlify.app/))
+[DEMO](https://mycoinss.netlify.app/)
 
 # Getting started
 
